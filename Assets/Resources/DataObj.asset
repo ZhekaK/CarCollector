@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d03306c423c8d41978108060fb4c03, type: 3}
+  m_Name: DataObj
+  m_EditorClassIdentifier: 
+  carsObjects:
+  - {fileID: 7163441228962323730, guid: 24afb0937945d7041be534a6fa34f87d, type: 3}
+  - {fileID: 4526129750426275605, guid: 6cc0f8d3cbb915a4aaad20580c468c5a, type: 3}
+  - {fileID: 3122180013604911470, guid: c66b89c07adc2e549a7c6ec5cdea68f7, type: 3}
+  - {fileID: 7537272167392697226, guid: f7d917eceaf462e4fb3154449b43dd29, type: 3}
+  - {fileID: 2173635939088558843, guid: d88177e163db0be45aca233512e81bb7, type: 3}
+  - {fileID: 5922784966182153375, guid: 9b960e2cd75131446a6249c8bdcc53d0, type: 3}
+  - {fileID: 2046962356206867862, guid: 0a255e6093e91364c82892f8a9a2bbea, type: 3}
+  - {fileID: 1772368864978736155, guid: 8ceb8b10cc9bf954d9e1b1d3136cd665, type: 3}
+  - {fileID: 2757647929522162524, guid: 8c289fc8e20add244b2a1258d10a97ce, type: 3}
+  - {fileID: 3864822949097869223, guid: 1f773dd1de7f34e479706d264108e178, type: 3}
+  carsPrice:
+  - 5000
+  - 25000
+  - 80000
+  - 125000
+  - 260000
+  - 400000
+  - 600000
+  - 850000
+  - 1000000
+  - 1230000
+  carsColors:
+  - {fileID: 2100000, guid: 0a5fa0e3de53444488e88fe9ce77ebee, type: 2}
+  - {fileID: 2100000, guid: 36e7c998e660c9646bec8182b09f625c, type: 2}
+  - {fileID: 2100000, guid: 8717d257f117dab42b822658c521ead1, type: 2}
+  - {fileID: 2100000, guid: ca867e7691940e545bd953dbdb41dca6, type: 2}
+  - {fileID: 2100000, guid: fe2f9f2ef464e704f9ba11acdca2882a, type: 2}
+  parkingRegionsPrice:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  mainHousePrice:
+  - 0
+  - 0
+  - 0
+  trackBonusObj:
+  - {fileID: 5088193389923673160, guid: 960137734259e764f9a2f93e8080455c, type: 3}
+  - {fileID: 1475173993998174578, guid: e8aa6cfa3e3174245bad9d10858cb50b, type: 3}
+  trackBonusValueMinMax:
+  - -350000
+  - 350000
+  trackBonusValueFloatMinMax:
+  - 0.1
+  - 1.5
